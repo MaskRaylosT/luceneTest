@@ -29,7 +29,7 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 public class MainFangFa {
-	
+	//test
 	private static String indexPath = "D:\\Myproject2\\LuceneTest\\save";
 	private static final int maxlength=10000;
 	public static IndexReader reader=null;
